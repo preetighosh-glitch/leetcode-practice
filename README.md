@@ -1,0 +1,1 @@
+This repository contains my selected LeetCode solutions, written in Python with a focus on clear logic, readability, and fundamental problem-solving using arrays, strings, basic math, loops, and introductory hashing.
